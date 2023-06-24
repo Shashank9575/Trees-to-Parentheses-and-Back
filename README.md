@@ -5,7 +5,7 @@ class Tree {
 }
 
 class Leaf extends Tree {
-    // Represents a leaf node in the binary tree
+    
 }
 
 class Branch extends Tree {
